@@ -24,4 +24,4 @@ requests through a hierarchical approval workflow.
 
 
 ## Author
-Imane GBADAMASI
+Imane GBADAMASSI
